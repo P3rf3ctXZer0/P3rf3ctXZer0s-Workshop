@@ -3,7 +3,7 @@ This is a general hub which links to other project hubs.
 
 # Live projects
 
-*Project Evolution 1.16.X* 
+# *Project Evolution 1.16.X* 
 
 https://github.com/P3rf3ctXZer0/Project-Evolution-1.16.X
 

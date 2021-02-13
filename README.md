@@ -16,7 +16,7 @@ https://github.com/P3rf3ctXZer0/Pixelmon-BYOI
 
 A Minecraft modpack geared towards the mod "Pixelmon" for version 1.12.2
 
-# *Project Evolution Main Dish
+# *Project Evolution Main Dish*
 
 https://github.com/P3rf3ctXZer0/Project-Evolution-Main-Dish
 

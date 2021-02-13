@@ -3,22 +3,21 @@ This is a general hub which links to other project hubs.
 
 # Learning
 
+
 * GIMP2
+* Piano
+* RPG Maker MZ
 
 # Live projects
 
-# *Pixelmon Evolved*
+# *Pixelmon BYOI*
 
-https://github.com/P3rf3ctXZer0/Pixelmon-Evolved
+https://github.com/P3rf3ctXZer0/Pixelmon-BYOI
 
-A Minecraft modpack geared towards the mod "Pixelmon" for version 1.12.X
+A Minecraft modpack geared towards the mod "Pixelmon" for version 1.12.2
 
-# *Project Evolution Main Course* 
+# *Project Evolution Main Dish
 
-https://github.com/P3rf3ctXZer0/Project-Evolution-Main-Course
+https://github.com/P3rf3ctXZer0/Project-Evolution-Main-Dish
 
-A Minecraft modpack built on 1.16.X
-
-# *1.16.4 Kool Kids Clan with serversync auto update* <-- On hold while mods catch up.
-
-https://www.dropbox.com/s/wwqk1rgryxbplqf/1.16.4-Forge-KoolKidsClan-MC-SS-1.0.0.zip?dl=1
+A Minecraft modpack built on the 1.16.5 forge framework. It will change as I see fit.

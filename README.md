@@ -11,13 +11,13 @@ This is a general hub which links to other project hubs.
 
 # Live projects
 
-# *Pixelmon BYOI*
+![](https://i.imgur.com/oo1Wj7c.png)
 
 https://github.com/P3rf3ctXZer0/Pixelmon-BYOI
 
 A Minecraft modpack geared towards the mod "Pixelmon" for version 1.12.2
 
-# *Project Evolution Main Dish*
+![](https://i.imgur.com/JHAd52X.png)
 
 https://github.com/P3rf3ctXZer0/Project-Evolution-Main-Dish
 

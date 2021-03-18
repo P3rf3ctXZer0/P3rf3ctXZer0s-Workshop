@@ -7,6 +7,7 @@ This is a general hub which links to other project hubs.
 
 * GIMP2
 * Piano
+* Minecraft 1.16.5 Forge
 * RPG Maker MZ
 
 # Live projects
